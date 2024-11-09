@@ -1,0 +1,4 @@
+repository "Project Manhattan@MaXaM003@cloud"
+  path "/"
+    smartbranch "/main"         
+     
